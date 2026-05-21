@@ -1,5 +1,5 @@
 # Appendix-Code
-Immune Driven Pathogen Evolution under Partial Epitope Targetting
+Effects of partial epitope coverage on the dynamics of antigenically diverse pathogen populations
 
 ## Contents
 - `model1_nonoverlapping_complete_crossprotection`
